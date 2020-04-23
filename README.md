@@ -51,11 +51,14 @@ In the terminal app of preference, the following commands need to be entered.
     ```
     npx react-native 
     ``` 
-2. Move into this Project Directory
-```
-cd ARApp
-```
-3. From the root of the above project achieved by the above command, run the command: ```npm start``` to start the     application.
+2. Move into the project directory on your machine and run the package server
+    ```
+    cd ARApp
+    ```
+    From the root of the above project achieved by the above command, run the following command
+    ```
+    npm start
+    ```
 
 ### Running the Application
 To run the application on your mobile device simply open up the Viro Media App and enter the testbed via the menu icon in the top left of the screen.
